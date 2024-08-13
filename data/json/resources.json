@@ -28,5 +28,20 @@
     "name": "Woy.ai",
     "description": "AI Tools Directory",
     "url": "https://woy.ai"
+  },
+  {
+    "name": "OpenAI",
+    "description": "A research and deployment company that uses AI to benefit humanity.",
+    "url": "https://openai.com/"
+  },
+  {
+    "name": "NVIDIA",
+    "description": "The leader in visual computing technology, dedicated to creating products for gamers and professionals.",
+    "url": "https://www.nvidia.com/"
+  },
+  {
+    "name": "Gemini",
+    "description": "A platform for cryptocurrency exchange and custody services.",
+    "url": "https://gemini.com/"
   }
 ]
