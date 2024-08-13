@@ -7,6 +7,10 @@
     "path": "data/md/accessing-admin-managing-resources.md"
   },
   {
+    "lastModified": "2024-08-13T03:48:54Z",
+    "path": "data/md/comfyui-install-guide-0813.md"
+  },
+  {
     "title": "Configuring Environment Variables for GitBase",
     "description": "How to configure GitBase environment variables",
     "date": "2024-08-11T13:08:05.474Z",
