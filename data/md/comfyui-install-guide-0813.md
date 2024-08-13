@@ -3,11 +3,9 @@ title: 'Installing ComfyUI: A Beginner''s Guide'
 description: >-
   A step-by-step tutorial to install ComfyUI, a modern UI library, on your local
   machine
-lastModified: '2024-08-13T03:54:27.851Z'
+lastModified: '2024-08-13T03:54:53.086Z'
 ---
-title: "Installing ComfyUI: A Beginner's Guide"
-description: "A step-by-step tutorial to install ComfyUI, a modern UI library, on your local machine."
-date: "2024-08-13"
+
 
 # Installing ComfyUI: A Beginner's Guide
 
